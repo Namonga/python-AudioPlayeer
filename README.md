@@ -77,7 +77,7 @@ python main.py
 ##  Структура проекта
 
 ```
-audio-player/
+python-AudioPlayeer/
 ├── word-docs
 │   ├── ru_Audio_Doclad.docx            # Доклад
 │   └──  Presentation_Auido-player.pptx # Презентация
