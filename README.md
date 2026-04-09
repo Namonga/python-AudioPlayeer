@@ -79,13 +79,13 @@ python main.py
 ```
 audio-player/
 ├── word-docs
-│   ├── ru_Audio_Doclad.docx       # Доклад
-│   └──  Presentation_Auido-player # Презентация
-├── main.py                        # Точка входа, GUI, интеграция SVG и WebChannel
-├── logic.py                       # Логика плеера (QMediaPlayer, плейлист, таймер)
-├── new_testlayout.svg             # SVG-разметка интерфейса
-├── requirements.txt               # Список зависимостей
-└── README.md                      # Документация
+│   ├── ru_Audio_Doclad.docx            # Доклад
+│   └──  Presentation_Auido-player.pptx # Презентация
+├── main.py                             # Точка входа, GUI, интеграция SVG и WebChannel
+├── logic.py                            # Логика плеера (QMediaPlayer, плейлист, таймер)
+├── new_testlayout.svg                  # SVG-разметка интерфейса
+├── requirements.txt                    # Список зависимостей
+└── README.md                           # Документация
 ```
 
 ### Описание модулей
